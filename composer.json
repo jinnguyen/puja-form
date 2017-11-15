@@ -1,0 +1,24 @@
+{
+  "name": "jinnguyen/puja-form",
+  "description": "Puja Form",
+  "type": "library",
+  "license": "The MIT License (MIT)",
+  "keywords": ["puja", "form"],
+  "authors": [
+      {
+        "name": "Jin Nguyen",
+        "email": "w2ajax@gmail.com"
+      }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Puja\\Form\\": "src"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "name": "jinnguyen/puja-form",
   "description": "Puja Form",
   "type": "library",
-  "license": "The MIT License (MIT)",
+  "license": "Apache License 2.0",
   "keywords": ["puja", "form"],
   "authors": [
       {
